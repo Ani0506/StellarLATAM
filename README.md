@@ -85,14 +85,6 @@ Millones en donaciones se pierden cada año por corrupción, uso indebido o falt
 
    Si alguna validación falla → evidencia se marca como sospechosa.
 
-4. **Consentimiento**  
-   - Se muestra una pantalla solicitando:  
-     - ¿Desea compartir su historia públicamente?  
-     - ¿Permitir usar su nombre e imagen?  
-     - Aceptar términos (GDPR-like)
-
-    Si acepta, se publica la historia en el dashboard.
-
 ---
 
 ####  Visualización para el donante
