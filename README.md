@@ -93,7 +93,7 @@ En su panel privado, el donante ve:
 
  San Salvador — 12/julio/2025
  Rosa M. recibió 3 dosis de insulina para su hijo Miguel.
- Ver foto — 🎤 Escuchar testimonio
+ Ver foto —  Escuchar testimonio
  “Gracias a esta ayuda, mi hijo pudo recibir su tratamiento
 
 Esto genera una experiencia emocional y verificable, mejor que cualquier PDF o correo de agradecimiento.
